@@ -4,3 +4,19 @@
 *.jar
 *.war
 *.ear
+
+# Gradle #
+.gradle
+build
+
+# IDE files #
+.settings
+.project
+.classpath
+.idea
+*.iml
+*.ipr
+*.iws
+
+# OS files #
+.DS_Store
