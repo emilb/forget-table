@@ -17,6 +17,7 @@ configurations.all {
 
 dependencies {
   //compile 'org.slf4j:slf4j-simple:1.6.6'
+    testCompile 'junit:junit:4.11'
 }
 
 task wrapper(type: Wrapper) {
